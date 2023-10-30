@@ -1,0 +1,66 @@
+rules:
+  - rule: Greet user
+    steps:
+      - intent: greet
+      - action: utter_greet
+
+  - rule: Say goodbye
+    steps:
+      - intent: goodbye
+      - action: utter_goodbye
+
+  - rule: Provide cultivation steps
+    steps:
+      - intent: ask_cultivation_steps
+      - action: utter_ask_cultivation_steps
+
+  - rule: Provide disease prevention tips
+    steps:
+      - intent: ask_disease_prevention
+      - action: utter_ask_disease_prevention
+
+  - rule: Provide banana diseases
+    steps:
+      - intent: ask_banana_diseases
+      - action: utter_provide_banana_diseases
+
+  - rule: Predict Cordana Disease
+    steps:
+      - intent: inform
+      - action: action_disease_prediction
+      - action: utter_disease_cordana
+
+  - rule: Predict Black Sigatoka Disease
+    steps:
+      - intent: inform_black_sigatoka
+      - action: utter_disease_black_sigatoka
+
+  - rule: Predict Anthracnose Disease
+    steps:
+      - intent: inform_anthracnose
+      - action: utter_disease_anthracnose
+
+  - rule: Predict Crown Rot Disease
+    steps:
+      - intent: inform_crownrot
+      - action: utter_disease_crownrot
+
+  - rule: Predict Cordana Symptoms
+    steps:
+      - intent: inform_cordana_symptoms
+      - action: utter_cordana_symptoms
+
+  - rule: Predict Black Sigatoka Symptoms
+    steps:
+      - intent: inform_blacksigatoka_symptoms
+      - action: utter_blacksigatoka_symptoms
+
+  - rule: Predict Anthracnose Symptoms
+    steps:
+      - intent: inform_anthracnose_symptoms
+      - action: utter_anthracnose_symptoms
+
+  - rule: Predict Crown Rot Symptoms
+    steps:
+      - intent: inform_crownrot_symptoms
+      - action: utter_crownrot_symptoms

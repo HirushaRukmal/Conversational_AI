@@ -1,0 +1,103 @@
+intents:
+  - greet
+  - goodbye
+  - ask_cultivation_steps
+  - ask_disease_prevention
+  - ask_banana_diseases
+  - inform
+
+entities:
+  - symptom
+  - disease
+  - description
+
+responses:
+  utter_greet:
+    - text: "Hello! I'm Banana Expert assistant. How can I assist you today?"
+
+  utter_goodbye:
+    - text: "Goodbye! If you have more questions, feel free to ask."
+
+  utter_ask_cultivation_steps:
+    - text: "Sure, here are the basic steps for banana cultivation:\n
+        1. Choose the right banana variety.\n
+        2. Prepare the soil and plant the banana sucker.\n
+        3. Provide adequate water and nutrients.\n
+        4. Control pests and diseases.\n
+        5. Harvest ripe bananas."
+
+  utter_ask_disease_prevention:
+    - text: "To prevent banana diseases, you can:\n
+        1. Keep the area clean and free of debris.\n
+        2. Use disease-resistant banana varieties.\n
+        3. Apply appropriate fungicides when necessary."
+
+  utter_provide_banana_diseases:
+    - text: "Here are some common banana diseases:\n
+        1. Cordana\n
+        2. Black Sigatoka\n
+        3. Anthracnose\n
+        4. Crown Rot\n
+        5. Panama Disease (Tropical Race 4)"
+
+  utter_disease_cordana:
+    - text: "Based on the symptoms you described, it appears to be Cordana."
+
+  utter_disease_black_sigatoka:
+    - text: "Based on the symptoms you described, it appears to be Black Sigatoka (Black Leaf Streak)."
+
+  utter_disease_anthracnose:
+    - text: "Based on the symptoms you described, it appears to be Anthracnose."
+
+  utter_disease_crownrot:
+    - text: "Based on the symptoms you described, it appears to be Crownrot."
+
+  utter_cordana_symptoms:
+    - text: "Cordana (Cordana Leaf Spot) symptoms:\n
+        1. Leaf Spots: Circular to elliptical spots with dark brown margins and light gray centers may appear on the leaves. These spots are typically between 1 to 3 centimeters in diameter.\n
+        2. Streaks: In some cases, long, dark streaks may develop along the leaves, often following the veins.\n
+        3. Concentric Rings: Concentric rings can be seen within the spots on the leaves.\n
+        4. Leaf Death: As the disease progresses, the leaves can die and wither, leading to reduced photosynthesis and ultimately affecting the overall health of the plant."
+
+  utter_blacksigatoka_symptoms:
+    - text: "Black Sigatoka (Black Leaf Streak) symptoms:\n
+        1. Leaf Spots: Circular to elongated dark brown or black spots with yellow halos appear on the banana leaves. These spots can vary in size but often start as small lesions.\n
+        2. Spore Production: A dark velvety growth may develop on the undersides of infected leaves. This is the spore-producing structure of the Black Sigatoka fungus.\n
+        3. Coalescing Spots: Over time, the individual spots may coalesce, forming large areas of dead tissue on the leaves.\n
+        4. Reduced Photosynthesis: As the disease progresses, the affected leaves become less effective in photosynthesis. This can result in reduced growth and yield of the banana plant.\n
+        5. Leaf Death: In severe cases, the leaves may wither and die, affecting the overall health of the plant."
+
+  utter_anthracnose_symptoms:
+    - text: "Anthracnose symptoms:\n
+        1. Lesions on Leaves: Small, sunken, dark lesions or spots with red, orange, or tan centers may appear on banana leaves.\n
+        2. Lesions on Fruits: Dark, sunken spots with pinkish centers can develop on banana fruits, making them unmarketable.\n
+        3. Cankers on Pseudostems: Dark, cracked, and sunken areas may form on the pseudostems (the part of the plant that looks like a trunk).\n
+        4. Rotting of Inflorescences: Anthracnose can cause the rotting of banana flower structures (inflorescences), which can lead to fruit loss."
+
+  utter_crownrot_symptoms:
+    - text: "Crown Rot symptoms:\n
+        1. Leaf Wilting: The leaves of the banana plant may wilt, turn yellow, or exhibit overall poor growth.\n
+        2. Dark Lesions on Stem Bases: Dark, sunken lesions or streaks may appear on the stem bases, especially at or near the soil line.\n
+        3. Soft and Slimy Tissue: The affected areas may become soft, slimy, and unpleasant smelling.\n
+        4. Root Rot: Crown rot can also affect the roots, leading to rotting and poor nutrient uptake."
+
+actions:
+  - utter_greet
+  - utter_goodbye
+  - utter_ask_cultivation_steps
+  - utter_ask_disease_prevention
+  - utter_provide_banana_diseases
+  - action_banana_disease
+  - utter_disease_cordana
+  - utter_disease_black_sigatoka
+  - utter_disease_anthracnose
+  - utter_disease_crownrot
+  - utter_cordana_symptoms
+  - utter_blacksigatoka_symptoms
+  - utter_anthracnose_symptoms
+  - utter_crownrot_symptoms
+  - action_disease_prediction
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

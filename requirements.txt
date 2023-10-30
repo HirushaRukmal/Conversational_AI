@@ -1,0 +1,12 @@
+rasa==3.6.13      # The version of Rasa you're using
+spacy>=3.0.0     # Required for natural language processing
+scikit-learn>=0.23 # Required for intent classification
+rasa-sdk==3.6.2  # Required for custom actions
+aiohttp>=3.7.4   # Required for the Rasa HTTP server
+jsonschema==3.2.0 # Required for JSON validation
+ruamel.yaml==0.17.4 # Required for parsing YAML files
+
+# Additional dependencies based on your project's needs
+# For example:
+# requests==2.26.0  # If you need to make HTTP requests
+# pandas==1.3.3     # If you need to manipulate data

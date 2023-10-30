@@ -1,0 +1,78 @@
+nlu:
+  - intent: greet
+    examples: |
+      - Hello
+      - Hi there
+      - Hey
+  - intent: goodbye
+    examples: |
+      - goodbye
+      - quit
+      - bye
+  - intent: ask_cultivation_steps
+    examples: |
+      - How do I cultivate bananas?
+      - Can you tell me the steps to grow bananas?
+      - Banana cultivation process
+  - intent: ask_disease_prevention
+    examples: |
+      - How can I prevent banana diseases?
+      - Tell me about banana plant disease control
+      - Preventing diseases in banana farming
+  - intent: ask_banana_diseases
+    examples: |
+      - What are common banana diseases?
+      - List banana plant diseases
+
+  - intent: inform
+    examples: |
+      - I have circular spots with dark brown margins and light gray centers on my leaves
+      - There are long, dark streaks on my leaves
+      - I see concentric rings within the spots on the leaves
+      - My leaves are dying and withering
+
+  - intent: inform_black_sigatoka
+    examples: |
+      - Circular to elongated dark brown or black spots with yellow halos appear on the banana leaves.
+      - A dark velvety growth may develop on the undersides of infected leaves.
+      - Over time, the individual spots may coalesce, forming large areas of dead tissue on the leaves.
+      - As the disease progresses, the affected leaves become less effective in photosynthesis.
+      - In severe cases, the leaves may wither and die, affecting the overall health of the plant.
+
+  - intent: inform_anthracnose
+    examples: |
+      - I see small, sunken, dark lesions on banana leaves.
+      - There are dark, sunken spots with pinkish centers on the fruits.
+      - Banana pseudostems have dark, cracked areas.
+      - The banana inflorescences are rotting.
+
+  - intent: inform_crownrot
+    examples: |
+      - The leaves of the banana plant are wilting and turning yellow.
+      - There are dark, sunken lesions on the stem bases.
+      - Affected areas have become soft, slimy, and unpleasant smelling.
+      - Banana roots are rotting.
+
+  - intent: inform_cordana_symptoms
+    examples: |
+      - Cordana symptoms
+      - Symptoms of Cordana
+      - Cordana Disease symptoms
+
+  - intent: inform_blacksigatoka_symptoms
+    examples: |
+      - Black Sigatoka symptoms
+      - Symptoms of Black Sigatoka
+      - Black Sigatoka Disease symptoms
+
+  - intent: inform_anthracnose_symptoms
+    examples: |
+      - Anthracnose symptoms
+      - Symptoms of Anthracnose
+      - Anthracnose Disease symptoms
+
+  - intent: inform_crownrot_symptoms
+    examples: |
+      - Crown Rot symptoms
+      - Symptoms of Crown Rot
+      - Crown Rot Disease symptoms

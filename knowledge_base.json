@@ -1,0 +1,1272 @@
+[
+  {
+    "tag": [
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Softening and Discoloration of the Crown Area",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Rotting and Decay of Stem Tissues",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Leaf Spotting",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "\"Black",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Brown or Black Spots on Leaves and Leaf Sheaths"
+        },
+        "v_id": "26",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Dark Lesions on the Petioles"
+        },
+        "v_id": "9",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Blight on the Inflorescence",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Lesions on Leaf Margins and Tips",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Dark Spots on Fruits with Premature Ripening",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Reddish-Brown Streaks on Petioles and Midribs",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Softening and Discoloration of the Crown Area"
+        },
+        "v_id": "31",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Blackening and Rotting of Fruit Stems"
+        },
+        "v_id": "3",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Foul Odor Emitting from the Crown Area"
+        },
+        "v_id": "32",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Blackened Streaks on the Pseudostem"
+        },
+        "v_id": "15",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Rotting and Decay of Stem Tissues"
+        },
+        "v_id": "27",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Dark Lesions on the Petioles",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Brown Necrotic Lesions on Fruit",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Blackened Streaks on the Pseudostem",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Brown to Black Lesions on the Crown and Basal Stems"
+        },
+        "v_id": "35",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Yellowing and Browning of Leaf Edges"
+        },
+        "v_id": "10",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Dark Spots on the Pseudostem"
+        },
+        "v_id": "4",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Wilting of Leaves and Stems"
+        },
+        "v_id": "33",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Lesions on Fruits with Spore Masses",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Lesions on Inflorescence and Bracts",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Premature Ripening and Yellowing of Fruit"
+        },
+        "v_id": "14",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Brown or Black Spots on Leaves",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Brown or Black Spots on Leaves and Leaf Sheaths",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Dark Lesions on the Rhizome",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Premature Ripening and Yellowing of Fruit",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Brown Necrotic Lesions on Fruit"
+        },
+        "v_id": "2",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Reddish-Brown Streaks on Petioles and Midribs"
+        },
+        "v_id": "18",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Rotting and Decay of Inner Crown Tissue"
+        },
+        "v_id": "37",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "\"Dark"
+        },
+        "v_id": "23",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Wilting and Collapsing Plants"
+        },
+        "v_id": "6",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Lesions on Inflorescence and Bracts"
+        },
+        "v_id": "17",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Leaf Spotting"
+        },
+        "v_id": "1",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "\"Dark",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Lesions on Leaf Margins and Tips"
+        },
+        "v_id": "30",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Yellowing and Browning of Leaf Edges",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Dark Spots on the Pseudostem",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Sunken Lesions on Petioles and Midribs",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "\"Soft"
+        },
+        "v_id": "36",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Crown Tissue Turning Soft and Spongy"
+        },
+        "v_id": "40",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Brown or Black Spots on Leaves"
+        },
+        "v_id": "22",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "\"Soft",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "\"Development of Small",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "\"Formation of Large",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Lesions on Leaf Margins and Tips"
+        },
+        "v_id": "20",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Bacterial Ooze or Exudates from the Crown Area",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Bacterial Ooze or Exudates from the Crown Area"
+        },
+        "v_id": "39",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Brown to Black Lesions on the Crown and Basal Stems",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Frequent Leaf Shedding",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Lesions on Fruits with Spore Masses"
+        },
+        "v_id": "28",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "\"Formation of Large"
+        },
+        "v_id": "13",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Wilting and Collapsing Plants",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Stunted Growth and Yellowing Leaves",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Blight on the Inflorescence"
+        },
+        "v_id": "8",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Frequent Leaf Shedding"
+        },
+        "v_id": "16",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "\"Dark"
+        },
+        "v_id": "21",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Dark Lesions on the Rhizome"
+        },
+        "v_id": "7",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "\"Development of Small"
+        },
+        "v_id": "12",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Dark Spots on Fruits with Premature Ripening"
+        },
+        "v_id": "19",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Rotting and Decay of Inner Crown Tissue",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Foul Odor Emitting from the Crown Area",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "\"Dark"
+        },
+        "v_id": "29",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Crown Area Covered in Fungal Mycelium",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Darkening and Rotting of the Crown Area"
+        },
+        "v_id": "34",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "\"Black"
+        },
+        "v_id": "25",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Darkening and Rotting of the Crown Area",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Stunted Growth and Yellowing Leaves"
+        },
+        "v_id": "5",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Crown Area Covered in Fungal Mycelium"
+        },
+        "v_id": "38",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Crown Tissue Turning Soft and Spongy",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Blackening and Rotting of Fruit Stems",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Yellowing of Lower Leaves",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Yellowing of Lower Leaves"
+        },
+        "v_id": "11",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Sunken Lesions on Petioles and Midribs"
+        },
+        "v_id": "24",
+        "v_type": "Symptoms"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Wilting of Leaves and Stems",
+        "v_type": "Symptoms"
+      }
+    ]
+  },
+  [
+  {
+    "tag": [
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Remove and destroy infected rhizomes. Treat rhizome pieces with a fungicide before replanting. Improve drainage and avoid waterlogging."
+        },
+        "v_id": "7",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Apply a preventive fungicide containing active ingredients like chlorothalonil or mancozeb. Ensure good plantation hygiene and remove infected plant debris. Avoid overhead irrigation."
+        },
+        "v_id": "12",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Implement a preventive fungicide spray program to protect fruit. Maintain proper nutrition and irrigation. Harvest fruit at the appropriate maturity stage."
+        },
+        "v_id": "19",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected plants. Improve soil drainage and avoid overwatering. Apply a fungicide labeled for Crown Rot control. Practice good sanitation and avoid introducing contaminated material.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected plants. Improve soil drainage and aeration. Apply a fungicide with active ingredients like thiabendazole or fludioxonil. Maintain proper sanitation and avoid cross-contamination.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "\"Implement proper disease management strategies to control leaf infection",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy infected fruit. Maintain good orchard sanitation practices. Apply a fungicide labeled for fruit rot control.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Remove and destroy severely infected leaves. Apply a systemic fungicide containing active ingredients like tebuconazole or difenoconazole. Improve plantation hygiene and avoid water stress."
+        },
+        "v_id": "20",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy infected rhizomes. Treat rhizome pieces with a fungicide before replanting. Improve drainage and avoid waterlogging.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected leaves. Apply a systemic fungicide containing active ingredients such as azoxystrobin or propiconazole. Improve airflow and reduce humidity in the plantation.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Remove and destroy severely infected plants. Improve soil drainage and aeration. Apply a fungicide with active ingredients like thiabendazole or fludioxonil. Maintain proper sanitation and avoid cross-contamination."
+        },
+        "v_id": "37",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "\"Remove and destroy infected pseudostems. Cut out affected areas"
+        },
+        "v_id": "23",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected plants. Improve soil drainage and avoid overwatering. Apply a fungicide with active ingredients like thiabendazole or iprodione to protect healthy plants.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {},
+        "v_id": "Remove and destroy severely infected plants. Improve soil drainage and aeration. Apply a fungicide labeled for Crown Rot control. Ensure proper sanitation and avoid introducing infected plant material.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Remove and destroy severely infected leaves. Apply a preventive fungicide containing active ingredients like chlorothalonil or mancozeb. Improve plantation hygiene and avoid water stress."
+        },
+        "v_id": "30",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Remove and destroy severely infected leaves. Apply a systemic fungicide to protect healthy foliage. Improve airflow and reduce leaf wetness."
+        },
+        "v_id": "29",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Implement a preventive fungicide spray program to protect fruit. Maintain proper nutrition and irrigation. Harvest fruit at the appropriate maturity stage.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Remove and destroy severely infected plants. Improve soil drainage and avoid waterlogged conditions. Apply a fungicide labeled for Crown Rot control. Use disease-free planting material."
+        },
+        "v_id": "34",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {},
+        "v_id": "Remove and destroy infected inflorescences. Apply a protective fungicide to prevent further infection. Improve ventilation and reduce humidity.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Remove and destroy severely infected plants. Improve soil drainage and aeration. Apply a fungicide labeled for Crown Rot control. Ensure proper sanitation and avoid introducing infected plant material."
+        },
+        "v_id": "32",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Remove and destroy severely infected stems. Apply a systemic fungicide to protect healthy tissue. Improve drainage and avoid waterlogging."
+        },
+        "v_id": "27",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Remove and destroy infected pseudostems. Apply a systemic fungicide to protect healthy tissue. Improve drainage and avoid waterlogging."
+        },
+        "v_id": "15",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy infected fruit. Maintain good orchard sanitation by removing fallen plant debris. Apply a fungicide labeled for Anthracnose control. Harvest fruit at the appropriate maturity stage.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Apply a preventive fungicide containing active ingredients like chlorothalonil or mancozeb. Ensure good plantation hygiene and remove infected plant debris. Avoid overhead irrigation.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "\"Remove and destroy infected fruit. Maintain good orchard sanitation by removing fallen plant debris. Apply a fungicide labeled for Anthracnose control",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {},
+        "v_id": "Remove and destroy infected pseudostems. Apply a systemic fungicide to protect healthy tissue. Improve drainage and avoid waterlogging.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Remove and destroy severely infected leaves. Apply a systemic fungicide containing active ingredients such as tebuconazole or propiconazole. Improve airflow and reduce leaf wetness."
+        },
+        "v_id": "24",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected stems. Apply a systemic fungicide to protect healthy tissue. Improve drainage and avoid waterlogging.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Remove and destroy severely infected leaves. Apply a preventive fungicide containing active ingredients like azoxystrobin or difenoconazole. Improve plantation hygiene and avoid water stress."
+        },
+        "v_id": "26",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Remove and destroy infected leaves. Apply a copper-based fungicide to protect healthy foliage. Improve airflow and reduce leaf wetness."
+        },
+        "v_id": "9",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {},
+        "v_id": "\"Remove and destroy infected pseudostems. Cut out affected areas",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Remove and destroy severely infected plants. Improve soil drainage and aeration. Apply copper-based bactericides according to label instructions. Practice good sanitation and avoid introducing bacteria through contaminated tools."
+        },
+        "v_id": "39",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Remove and destroy infected fruit. Maintain good orchard sanitation by removing fallen plant debris. Apply a fungicide labeled for Anthracnose control. Harvest fruit at the appropriate maturity stage."
+        },
+        "v_id": "28",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Remove and destroy severely infected leaves. Apply a systemic fungicide labeled for Sigatoka control. Maintain proper spacing between plants to improve airflow and reduce leaf wetness."
+        },
+        "v_id": "13",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Remove and destroy infected fruit. Maintain good orchard sanitation practices. Apply a fungicide labeled for fruit rot control."
+        },
+        "v_id": "2",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Remove and destroy severely infected leaves. Apply a systemic fungicide to protect healthy foliage. Improve airflow and reduce leaf wetness."
+        },
+        "v_id": "18",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Implement a regular fungicide spray program to manage the disease. Ensure proper nutrition and irrigation to maintain plant health. Remove fallen leaves to reduce inoculum sources.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Improve soil drainage and aeration. Avoid overwatering and ensure proper nutrient balance. Apply a balanced fertilizer according to soil test results.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Remove and destroy severely infected plants. Improve soil drainage and avoid overwatering. Apply a fungicide labeled for Crown Rot control. Use disease-free planting material and practice proper sanitation."
+        },
+        "v_id": "40",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Remove and destroy severely infected plants. Improve soil drainage and avoid overwatering. Apply a fungicide labeled for Crown Rot control. Practice good sanitation and avoid introducing contaminated material."
+        },
+        "v_id": "36",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Remove and destroy severely infected leaves. Apply a preventive fungicide containing active ingredients like chlorothalonil or mancozeb. Improve airflow and reduce humidity in the plantation."
+        },
+        "v_id": "22",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy infected fruit bunches. Prune affected stems and apply a fungicide to the pruning wounds. Improve drainage to prevent waterlogged soil conditions.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected leaves. Apply a systemic fungicide to protect healthy foliage. Improve airflow and reduce leaf wetness.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {},
+        "v_id": "Remove and destroy severely infected plants. Improve soil drainage and avoid waterlogging. Apply a fungicide with active ingredients such as thiabendazole or fludioxonil to protect healthy plants.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "Remove and destroy infected inflorescences. Apply a protective fungicide to prevent further infection. Improve ventilation and reduce humidity."
+        },
+        "v_id": "25",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected leaves. Apply a systemic fungicide labeled for Sigatoka control. Maintain proper spacing between plants to improve airflow and reduce leaf wetness.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Remove and destroy severely infected plants. Improve soil drainage and avoid waterlogging. Apply a fungicide with active ingredients such as thiabendazole or fludioxonil to protect healthy plants."
+        },
+        "v_id": "31",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Remove and destroy infected fruit bunches. Prune affected stems and apply a fungicide to the pruning wounds. Improve drainage to prevent waterlogged soil conditions."
+        },
+        "v_id": "3",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy infected leaves. Apply a copper-based fungicide to protect healthy foliage. Improve airflow and reduce leaf wetness.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy infected leaves. Apply a copper-based fungicide to control the disease. Ensure proper airflow and avoid overhead irrigation.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {},
+        "v_id": "Remove and destroy severely infected plants. Improve soil drainage and aeration. Apply copper-based bactericides according to label instructions. Practice good sanitation and avoid introducing bacteria through contaminated tools.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Improve soil drainage and aeration. Avoid overwatering and ensure proper nutrient balance. Apply a balanced fertilizer according to soil test results."
+        },
+        "v_id": "5",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Remove and destroy severely infected plants. Improve soil drainage and avoid waterlogging. Apply a fungicide labeled for Crown Rot control. Practice good sanitation and avoid spreading fungal spores."
+        },
+        "v_id": "38",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected leaves. Apply a preventive fungicide containing active ingredients like azoxystrobin or difenoconazole. Improve plantation hygiene and avoid water stress.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Remove and destroy severely infected plants. Improve soil drainage and aeration. Apply a fungicide with active ingredients such as fludioxonil or azoxystrobin. Rotate crops and practice good sanitation."
+        },
+        "v_id": "35",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "\"Ensure proper irrigation practices to avoid water stress. Maintain balanced nutrient levels"
+        },
+        "v_id": "10",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected leaves. Apply a preventive fungicide containing active ingredients like chlorothalonil or mancozeb. Improve plantation hygiene and avoid water stress.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected leaves. Apply a systemic fungicide containing active ingredients such as tebuconazole or propiconazole. Improve airflow and reduce leaf wetness.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {},
+        "v_id": "Cut and remove affected pseudostems. Apply a fungicide to the cut ends. Avoid excessive irrigation and improve drainage.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {},
+        "v_id": "Remove and destroy severely infected plants. Improve soil drainage and aeration. Apply a fungicide with active ingredients such as fludioxonil or azoxystrobin. Rotate crops and practice good sanitation.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "\"Implement proper disease management strategies to control leaf infection"
+        },
+        "v_id": "14",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy infected inflorescences. Apply a fungicide to protect healthy inflorescences. Improve ventilation and avoid excessive humidity.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 3,
+          "Name": "\"Remove and destroy infected fruit. Maintain good orchard sanitation by removing fallen plant debris. Apply a fungicide labeled for Anthracnose control"
+        },
+        "v_id": "21",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Remove and destroy infected inflorescences. Apply a fungicide to protect healthy inflorescences. Improve ventilation and avoid excessive humidity."
+        },
+        "v_id": "8",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Implement a regular fungicide spray program to manage the disease. Ensure proper nutrition and irrigation to maintain plant health. Remove fallen leaves to reduce inoculum sources."
+        },
+        "v_id": "16",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected plants. Improve soil drainage and avoid waterlogging. Apply a fungicide labeled for Crown Rot control. Practice good sanitation and avoid spreading fungal spores.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 4,
+          "Name": "Remove and destroy severely infected plants. Improve soil drainage and avoid overwatering. Apply a fungicide with active ingredients like thiabendazole or iprodione to protect healthy plants."
+        },
+        "v_id": "33",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Cut and remove affected pseudostems. Apply a fungicide to the cut ends. Avoid excessive irrigation and improve drainage."
+        },
+        "v_id": "4",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "\"Ensure proper irrigation practices to avoid water stress. Maintain balanced nutrient levels",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected plants. Improve soil drainage and avoid overwatering. Apply a fungicide labeled for Crown Rot control. Use disease-free planting material and practice proper sanitation.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Remove and destroy severely infected plants. Avoid planting in areas with a history of Cordana disease. Use disease-free planting material. Rotate crops and practice good sanitation."
+        },
+        "v_id": "6",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 1,
+          "Name": "Remove and destroy infected leaves. Apply a copper-based fungicide to control the disease. Ensure proper airflow and avoid overhead irrigation."
+        },
+        "v_id": "1",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": " Remove and destroy infected inflorescences and bracts. Apply a protective fungicide to prevent further infection. Improve ventilation and reduce humidity."
+        },
+        "v_id": "17",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected plants. Improve soil drainage and avoid waterlogged conditions. Apply a fungicide labeled for Crown Rot control. Use disease-free planting material.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected leaves. Apply a systemic fungicide containing active ingredients like tebuconazole or difenoconazole. Improve plantation hygiene and avoid water stress.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": " Remove and destroy infected inflorescences and bracts. Apply a protective fungicide to prevent further infection. Improve ventilation and reduce humidity.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 2,
+          "Name": "Remove and destroy severely infected leaves. Apply a systemic fungicide containing active ingredients such as azoxystrobin or propiconazole. Improve airflow and reduce humidity in the plantation."
+        },
+        "v_id": "11",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected plants. Avoid planting in areas with a history of Cordana disease. Use disease-free planting material. Rotate crops and practice good sanitation.",
+        "v_type": "Solutions"
+      },
+      {
+        "attributes": {
+          "Disease": 0,
+          "Name": ""
+        },
+        "v_id": "Remove and destroy severely infected leaves. Apply a preventive fungicide containing active ingredients like chlorothalonil or mancozeb. Improve airflow and reduce humidity in the plantation.",
+        "v_type": "Solutions"
+      }
+    ]
+  },
+  {
+    "tag": [
+      {
+        "attributes": {
+          "Name": "Sigatoka",
+          "Spread": true
+        },
+        "v_id": "2",
+        "v_type": "Disease"
+      },
+      {
+        "attributes": {
+          "Name": "Crown rot",
+          "Spread": true
+        },
+        "v_id": "4",
+        "v_type": "Disease"
+      },
+      {
+        "attributes": {
+          "Name": "Anthracnose",
+          "Spread": true
+        },
+        "v_id": "3",
+        "v_type": "Disease"
+      },
+      {
+        "attributes": {
+          "Name": "Cordana",
+          "Spread": true
+        },
+        "v_id": "1",
+        "v_type": "Disease"
+      }
+    ]
+  }
+]
+]

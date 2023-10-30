@@ -1,0 +1,67 @@
+stories:
+  - story: User asks about cultivation steps
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: ask_cultivation_steps
+      - action: utter_ask_cultivation_steps
+
+  - story: User asks about disease prevention
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: ask_disease_prevention
+      - action: utter_ask_disease_prevention
+
+  - story: User asks about banana diseases
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: ask_banana_diseases
+      - action: utter_provide_banana_diseases
+
+  - story: User says goodbye
+    steps:
+      - intent: goodbye
+      - action: utter_goodbye
+
+  - story: Predict Cordana Disease
+    steps:
+      - intent: inform
+      - action: action_disease_prediction
+      - action: utter_disease_cordana
+
+  - story: User describes Black Sigatoka symptoms
+    steps:
+      - intent: inform_black_sigatoka
+      - action: utter_disease_black_sigatoka
+
+  - story: User describes Anthracnose symptoms
+    steps:
+      - intent: inform_anthracnose
+      - action: utter_disease_anthracnose
+
+  - story: User describes Crownrot symptoms
+    steps:
+      - intent: inform_crownrot
+      - action: utter_disease_crownrot
+
+  - story: User asks Cordana symptoms
+    steps:
+      - intent: inform_cordana_symptoms
+      - action: utter_cordana_symptoms
+
+  - story: User asks Black Sigatoka symptoms
+    steps:
+      - intent: inform_blacksigatoka_symptoms
+      - action: utter_blacksigatoka_symptoms
+
+  - story: User asks Anthracnose symptoms
+    steps:
+      - intent: inform_anthracnose_symptoms
+      - action: utter_anthracnose_symptoms
+
+  - story: User asks Crown Rot symptoms
+    steps:
+      - intent: inform_crownrot_symptoms
+      - action: utter_crownrot_symptoms

@@ -1,0 +1,17 @@
+action_endpoint:
+  url: "http://localhost:5055/webhook"
+# Uncomment and configure the following section if you're using a tracker store
+# tracker_store:
+#   type: redis
+#   url: <host of the redis instance, e.g., localhost>
+#   port: <port of your redis instance, usually 6379>
+#   db: <number of your database within redis, e.g., 0>
+#   password: <password used for authentication>
+#   use_ssl: <whether or not the communication is encrypted, default false>
+
+# Uncomment and configure the following section if you're using an event broker
+# event_broker:
+#   url: localhost
+#   username: username
+#   password: password
+#   queue: queue

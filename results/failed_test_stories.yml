@@ -1,0 +1,56 @@
+version: "3.1"
+stories:
+  - story: happy path 1 (./tests/test_stories.yml)
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: mood_great
+      - action: utter_happy
+      - action: action_listen
+  - story: happy path 2 (./tests/test_stories.yml)
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: mood_great
+      - action: utter_happy
+      - action: action_listen
+      - intent: goodbye
+      - action: utter_goodbye
+  - story: sad path 1 (./tests/test_stories.yml)
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: mood_unhappy
+      - action: utter_cheer_up
+      - action: utter_did_that_help
+      - action: action_listen
+      - intent: affirm
+      - action: utter_happy
+      - action: action_listen
+  - story: sad path 2 (./tests/test_stories.yml)
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: mood_unhappy
+      - action: utter_cheer_up
+      - action: utter_did_that_help
+      - action: action_listen
+      - intent: deny
+      - action: utter_goodbye
+      - action: action_listen
+  - story: sad path 3 (./tests/test_stories.yml)
+    steps:
+      - intent: greet
+      - action: utter_greet
+      - intent: mood_unhappy # predicted: goodbye: very terrible
+      - action: utter_cheer_up
+      - action: utter_did_that_help
+      - action: action_listen
+      - intent: deny
+      - action: utter_goodbye
+      - action: action_listen
+  - story: bot challenge (./tests/test_stories.yml)
+    steps:
+      - intent: bot_challenge # predicted: goodbye: are you a bot?
+      - action: utter_iamabot
+      - action: action_listen
